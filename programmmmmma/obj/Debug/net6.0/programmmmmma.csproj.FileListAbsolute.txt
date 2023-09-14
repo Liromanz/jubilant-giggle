@@ -1,0 +1,15 @@
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\bin\Debug\net6.0\programmmmmma.exe
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\bin\Debug\net6.0\programmmmmma.deps.json
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\bin\Debug\net6.0\programmmmmma.runtimeconfig.json
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\bin\Debug\net6.0\programmmmmma.dll
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\bin\Debug\net6.0\programmmmmma.pdb
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.dll
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\refint\programmmmmma.dll
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.pdb
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\programmmmmma.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\это мое\programmmmmma\programmmmmma\obj\Debug\net6.0\ref\programmmmmma.dll
